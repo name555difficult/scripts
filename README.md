@@ -1,5 +1,8 @@
 # scripts
 
+- check_gpu_state
+- check_uninstall_packages
+
 ## English
 
 > Some practical and simple scripts that I have written, feel free to use them if you need.
